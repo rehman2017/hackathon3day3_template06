@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/studio/[[...tool]]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/studio/[[...tool]]/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ]
+  }
+}
